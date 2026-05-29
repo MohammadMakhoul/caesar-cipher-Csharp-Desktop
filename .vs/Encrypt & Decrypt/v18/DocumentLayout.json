@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|c:\\users\\asus\\source\\repos\\encrypt \u0026 decrypt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\texttobinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|solutionrelative:texttobinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\texttotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|solutionrelative:texttotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\texttotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|solutionrelative:texttotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\texttobinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82C8AFDB-AE53-4955-95EA-8F753CAA596A}|Encrypt \u0026 Decrypt.csproj|solutionrelative:texttobinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextToText.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToText.cs",
+              "RelativeDocumentMoniker": "TextToText.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToText.cs",
+              "RelativeToolTip": "TextToText.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:09:48.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextToBinary.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToBinary.cs",
+              "RelativeDocumentMoniker": "TextToBinary.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToBinary.cs",
+              "RelativeToolTip": "TextToBinary.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:09:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:09:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:09:49.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextToBinary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToBinary.cs",
+              "RelativeDocumentMoniker": "TextToBinary.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToBinary.cs [Design]",
+              "RelativeToolTip": "TextToBinary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:09:49.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextToText.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToText.cs",
+              "RelativeDocumentMoniker": "TextToText.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Encrypt \u0026 Decrypt\\TextToText.cs [Design]",
+              "RelativeToolTip": "TextToText.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:09:49.04Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

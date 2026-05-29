@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\bin\Debug\Encrypt & Decrypt.exe.config
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\bin\Debug\Encrypt & Decrypt.exe
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\bin\Debug\Encrypt & Decrypt.pdb
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt & Decrypt.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt___Decrypt.Form1.resources
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt___Decrypt.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt & Decrypt.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt & Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt & Decrypt.exe
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt & Decrypt.pdb
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt___Decrypt.TextToBinary.resources
+C:\Users\ASUS\source\repos\Encrypt & Decrypt\obj\Debug\Encrypt___Decrypt.TextToText.resources
